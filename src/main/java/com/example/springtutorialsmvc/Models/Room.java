@@ -1,4 +1,4 @@
-package com.example.springtutorialsmvc;
+package com.example.springtutorialsmvc.Models;
 
 public class Room {
     private long id;
